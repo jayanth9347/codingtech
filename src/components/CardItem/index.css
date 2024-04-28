@@ -1,0 +1,29 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  width: 300px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  text-align: center;
+  width: 300px;
+  border-radius: 15px;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  text-align: center;
+  width: 300px;
+  border-radius: 15px;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  text-align: center;
+  width: 300px;
+  border-radius: 15px;
+}
+
+/* Write CSS code here. */
